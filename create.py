@@ -4,10 +4,10 @@ import os
 letter_color = "blue"
 letter_set = "set0"
 trcolor = False
-totalset = len(os.listdir("font/letters")) + 1
+totalset = len(os.listdir("font-scanned/letters")) + 1
 
 htmlc = [
-    "<html><head><style>.lines{width:100%;height:auto;float:left;}#paper{border: 10px solid black;background-image:url('font/texture.png');height:297mm;float:left;padding-top:76.5px;padding-left:116px;padding-right:76.5px;padding-bottom:76.5px;width:210mm;}img,span{height:45px;float:left;margin-bottom:1px;}.clblack{filter:brightness(30%);}.clblue{filter:brightness(100%);}</style></head><body><div id='paper'>"
+    "<html><head><style>.lines{width:100%;height:auto;float:left;}#paper{border: 10px solid black;background-image:url('font-scanned/texture.png');height:297mm;float:left;padding-top:76.5px;padding-left:116px;padding-right:76.5px;padding-bottom:76.5px;width:210mm;}img,span{height:45px;float:left;margin-bottom:1px;}.clblack{filter:brightness(30%);}.clblue{filter:brightness(100%);}</style></head><body><div id='paper'>"
 ]
 
 with open("draft.txt", "r") as textfile:
@@ -32,7 +32,7 @@ with open("draft.txt", "r") as textfile:
 
             if chcode != 35 and chcode != 36:
                 htmlc.append(
-                    "<img src='font/letters/{}/{}/{}.png'/>".format(
+                    "<img src='font-scanned/letters/{}/{}/{}.png'/>".format(
                         letter_set, letter_color, chcode
                     )
                 )
