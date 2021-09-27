@@ -1,6 +1,8 @@
 # Handwrite Tool
 ## Alat bantu buat bikin laprak tultang dll.
 
+- Liat dulu contoh hasil jadinya di file 'demo.png', silaken lanjut klo tertarik
+
 Cara menggunakannya cukup mudah.
 - Install python 3 dulu di laptop kalian
 - Download repo ini terus extract di folder kalian
