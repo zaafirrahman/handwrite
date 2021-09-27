@@ -1,5 +1,5 @@
-#Handwrite Tool
-##Alat bantu buat bikin laprak tultang dll.
+# Handwrite Tool
+## Alat bantu buat bikin laprak tultang dll.
 
 Cara menggunakannya cukup mudah.
 - Install python 3 dulu di laptop kalian
