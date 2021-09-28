@@ -6,8 +6,9 @@
 Cara menggunakannya cukup mudah.
 - Install python 3 dulu di laptop kalian
 - Download repo ini terus extract di folder kalian
-- Scan tultang kalian berupa huruf, angka, simbol apapun di keyboard secara jelas
-- Terserah mau bikin berapa set, semakin banyak semakin bagus karna semakin beragam jenis font kalian
+- Tulis seluruh karakter keyboard kalian di atas kertas putih secara jelas dan ukurannya seragam (termasuk shifted caharacter)
+- Scan tultang kalian secara jelas, dekat, dan ga blur, terus save pake filter magic color (buat yang berwarna) atau no shadow (buat warna item) kalau kalian pakai camscanner
+- Terserah mau bikin berapa set (kelompok karakter), semakin banyak semakin bagus karna semakin beragam jenis font kalian
 - Masukin ke folder 'raw-font'
 - Buka file 'font-editor.psd' di folder font-scanned > letters terus masukin hasil scan kalian
 - Zoom sampe cuma keliatan 1 karakter doang di worksheet psd
