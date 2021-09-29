@@ -1,7 +1,7 @@
 # Handwrite Tool
 ## Alat bantu buat bikin laprak tultang dll.
 
-- Liat dulu contoh hasil jadinya di file 'demo.png', silaken lanjut klo tertarik
+- Liat dulu contoh hasil jadinya di file 'demo.png' buat mentahan dari ss html, atau file 'demo-final.pdf' buat hasil jadi yg lebih realistisnya, silaken lanjut klo tertarik
 
 Cara menyiapkan (Mungkin bakal susah dan agak lama, tapi cuma sekali doang, sisanya ntar ez)
 - Install python 3 dulu di laptop kalian
@@ -20,3 +20,9 @@ Cara menggunakan
 - Buka Command Prompt atau PowerShell, sesuain direktori dimana repo ini kalian save, abistu ketik 'create.py'
 - Buka file 'sheet.html' dan simsalabim, ketikan berubah jadi tultang seketika
 - Tinggal ss abistu merge sama lembaran2 lainnya, tinggal submit deh
+
+Tambahan
+- Kalau mau hasilnya lebih real mungkin dari ssan html bisa diprint dulu
+- Abis diprint, kasih garis hubung buat kata2 di ujung baris yg keputus
+- Trus scan tanpa filter atau klo gelap cukup pake filter yang lighten aja
+- Submit abistu tinggal ongkang2 kaki dah tu
