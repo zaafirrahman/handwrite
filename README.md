@@ -1,4 +1,4 @@
-# Handwrite Tool
+# Handwrite Generator
 ## Alat bantu buat bikin laprak tultang dll.
 
 - Liat dulu contoh hasil jadinya di file 'demo.png' buat mentahan dari ss html, atau file 'demo-final.pdf' buat hasil jadi yg lebih realistisnya, silaken lanjut klo tertarik
