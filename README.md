@@ -1,6 +1,5 @@
 # Handwrite Generator
 ## Alat bantu buat bikin laprak tultang dll.
-### Disclaimer : Bagi mahasiswa tip ftp ub angkatan 2021 ke bawah mending gausa make, percuma. Semua asisten praktikum angkatan 2020 dst uda pada tau jadi siap-siap ngulang klo ketauan pake alat ini buat bikin laprak tultang.
 
 - Liat dulu contoh hasil jadinya di file 'demo.png' buat mentahan dari ss html, atau file 'demo-final.pdf' buat hasil jadi yg lebih realistisnya, silaken lanjut klo tertarik
 
