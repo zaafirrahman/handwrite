@@ -36,6 +36,6 @@ Manfaat dan Keuntungan
 - Mengurangi biaya konsumsi kertas dan bolpoin sehingga menghemat pengeluaran uang saku mahasiswa
 - Mempermudah pengecekan laporan bagi para asisten praktikum
 
-*Mohon maaf asprak PKE
-
- **Mohon maaf asprak TekLim
+Ket :
+- *Mohon maaf asprak PKE
+- **Mohon maaf asprak TekLim
