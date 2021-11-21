@@ -26,3 +26,15 @@ Tambahan
 - Abis diprint, kasih garis hubung buat kata2 di ujung baris yg keputus
 - Trus scan tanpa filter atau klo gelap cukup pake filter yang lighten aja
 - Submit abistu tinggal ongkang2 kaki dah tu
+
+Manfaat dan Keuntungan
+- Mempersingkat waktu pengerjaan tugas sehingga dapat lebih efektif dan efisien serta meningkatkan produktivitas*
+- Mengurangi beban kerja fisik dan mental sehingga pengerjaan tugas dapat dilakukan dengan sebaik mungkin*
+- Mengurangi penggunaan kertas sehingga juga dapat mengurangi penebangan pohon sebagai sumber oksigen makhluk hidup**
+- Mengurangi volume limbah kertas sebagai limbah organik yang dapat membentuk gas metana dan memicu pemanasan global**
+- Mengurangi penggunaan bolpoin dan tinta sebagai penyumbang limbah anorganik dan B3 yang sangat berbahaya bagi lingkungan**
+- Mengurangi biaya konsumsi kertas dan bolpoin sehingga menghemat pengeluaran uang saku mahasiswa
+- Mempermudah pengecekan laporan bagi para asisten praktikum
+
+*Mohon maaf asprak PKE
+**Mohon maaf asprak TekLim
