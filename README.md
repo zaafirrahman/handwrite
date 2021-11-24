@@ -37,5 +37,5 @@ Manfaat dan Keuntungan
 - Mempermudah pengecekan laporan bagi para asisten praktikum
 
 Ket :
-- *Mohon maaf asprak PKE
-- **Mohon maaf asprak TekLim
+- *Evaluasi praktikum Perancangan Kerja dan Ergonomi
+- **Evaluasi praktikum Teknologi Limbah
