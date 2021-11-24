@@ -22,9 +22,9 @@ Cara menggunakan
 - Tinggal ss abistu merge sama lembaran2 lainnya, tinggal submit deh
 
 Tambahan
-- Kalau mau hasilnya lebih real mungkin dari ssan html bisa diprint dulu
-- Abis diprint, kasih garis hubung buat kata2 di ujung baris yg keputus
-- Trus scan tanpa filter atau klo gelap cukup pake filter yang lighten aja
+- Kalau mau hasilnya lebih real mungkin dari ssan html bisa ditambahin garis hubung buat kata2 di ujung baris yg keputus
+- Bisa edit sendiri pake ps ato canva
+- Trus scan hasil jadinya langsung di screen pc tanpa filter atau klo gelap cukup pake filter yang lighten aja
 - Submit abistu tinggal ongkang2 kaki dah tu
 
 Manfaat dan Keuntungan
